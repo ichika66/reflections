@@ -5,7 +5,7 @@ It creates .git file and you need it to create git repository of a file.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-Staging area is a place to prepare your file at working directory to be updated. Repository is the place to commit your work. It makes your attempt to commit clear.
+Staging area is a place to prepare your file at working directory to be updated. Repository is the place to commit your work. It makes your attempt to commit clear than before.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
