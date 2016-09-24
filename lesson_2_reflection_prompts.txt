@@ -28,3 +28,5 @@ the result of mergins two branches together is combination of two files. we see 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+automatic mergint make it easy to merge two work versions but modifications is neeeded when there are conflicts.
