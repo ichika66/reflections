@@ -24,5 +24,7 @@ It makes us easy to see which commit a branch can trace back and which not.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+the result of mergins two branches together is combination of two files. we see digaram to see which commmit will be reflected on the merged version of a work.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
