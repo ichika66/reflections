@@ -10,3 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
   Forks are like clones and it create a copy of source file but only on GitHub.
   I rather use fork when I would like to refer and modify other people's work on GitHub. 
+  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  To see the updated status of a work.
