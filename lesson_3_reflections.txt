@@ -19,3 +19,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
   I can collaborate using file server system or email. It would be easier to save or send a file to collaboraters but there are lot of danger to degrate a work.
   Also, it is not easy to manually see the different between multiple files.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  Making chnages in a seperate branch is suitable when you and want to experiment new feature of a work without breaking master branch. It has benefit for assuring always master is working properly.
