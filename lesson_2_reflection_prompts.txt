@@ -19,6 +19,8 @@ brances help you to create another version of a work not changing the original o
 
 How do the diagrams help you visualize the branch structure?
 
+It makes us easy to see which commit a branch can trace back and which not.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
